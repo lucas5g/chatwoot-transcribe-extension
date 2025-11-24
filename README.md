@@ -23,8 +23,6 @@ Este guia simples mostra como gerar uma chave de API para utilizar os modelos de
     * **Insira um Nome:** Digite um **nome de exibição** para sua chave (ex: `chave-projeto-x`). Isso ajuda a identificar seu uso.
 3.  Clique em **Submit** (Enviar).
 
----
-
 ### 4. Copiar e Salvar a Chave (Passo Crítico!)
 
 1.  Uma nova janela pop-up será exibida com sua chave de API completa.
