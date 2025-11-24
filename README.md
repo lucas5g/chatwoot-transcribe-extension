@@ -5,15 +5,6 @@ Este guia simples mostra como gerar uma chave de API para utilizar os modelos de
 **Site Oficial:** [groq.com](https://groq.com)
 
 ---
-## 🎬 Configuração Rápida: Gerando sua Chave de API
-
-**Assista ao vídeo para ver o passo a passo completo e fácil!**
-<video src="./assets/groq.mp4" 
-       width="540" 
-       height="380" 
-       controls>
-  Seu navegador não suporta a tag de vídeo.
-</video>
 
 ### 1. Acessar e Fazer Login no GroqCloud Console
 
